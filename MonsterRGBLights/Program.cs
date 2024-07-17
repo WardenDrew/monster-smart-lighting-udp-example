@@ -1,7 +1,7 @@
 ﻿/* Monster Smart Lighting "Smart RGB+IC Color Flow Light Bar Pair" UDP Client
  * Written by Andrew Haskell (c) 2024
  * 
- * Specifically, testing was done with a MNW7-2024-ICM (FCCID: 2AHAS-MLW71003
+ * Specifically, testing was done with a MNW7-2024-ICM (FCCID: 2AHAS-MLW71003)
  * 
  * The device tested uses the Ayla Network Communications IoT libraries to function.
  * For further digging, the devices do expose an HTTP server, however the API for it is unknown.
